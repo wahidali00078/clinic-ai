@@ -1,0 +1,6 @@
+{
+  "name": "ClinicAI — AI-Based Clinic Setup Assistant",
+  "description": "Plan your clinic with AI-powered location analysis, equipment planning, staffing, cost estimation, legal guidance and revenue forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
